@@ -1,5 +1,21 @@
 # What is Jomymeet ? 
-Jomymeet is the world's best e-learning platform designed to help connecting teachers and students in virtual classrooms via videoconferencing technology.
+Jomymeet is the world's best e-learning platform designed to help connecting teachers and students in virtual classrooms via video conferencing technology.
+
+Jomymeet uses Jitsi meet (open source) video conferenceing library, which comes with the following options:
+ 1) Screen share
+ 2) Tile view
+ 3) Mute all
+ 4) Disable camera & mute microphone
+ 5) Chat with emoji
+ 6) Raise hand
+ 7) Invite people (share session link)
+ 8) Video recording (Dropbox)
+ 9) Share a youtube video
+ 10) Blur background
+ 
+ and many more ...
+ 
+ Above all Jomymeet can be self hosted at your facility or on the cloud for optimum security.
 
 # How it works ?
 A admin person has to enrol studnets by adding their e-mail address, grade and classroom. the admin person is also responsible for creating the timetable for each classroom.
