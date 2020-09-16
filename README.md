@@ -56,6 +56,6 @@ you can test it by logging in as an ADMIN or by logging in as a STUDENT using th
 
 ![Invite screenshot](/screenshots/invite.JPG)
 
-![Options screenshot](/screenshots/options.JPG)
+![Options screenshot](/screenshots/options.jpg)
 
 
