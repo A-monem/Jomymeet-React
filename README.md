@@ -39,8 +39,23 @@ you can test it by logging in as an ADMIN or by logging in as a STUDENT using th
 # Screenshots
 
 ![Login screenshot](/screenshots/login.JPG)
+
 ![Timetable screenshot](/screenshots/timetable.JPG)
-![Session screenshot](/screenshots/session.JPG)
+
 ![Admin1 screenshot](/screenshots/admin1.JPG)
+
 ![Admin2 screenshot](/screenshots/admin2.JPG)
+
 ![Admin3 screenshot](/screenshots/admin3.JPG)
+
+![Session screenshot](/screenshots/session.JPG)
+
+![Session2 screenshot](/screenshots/session2.JPG)
+
+![Chat screenshot](/screenshots/chat&screenshare.JPG)
+
+![Invite screenshot](/screenshots/invite.JPG)
+
+![Options screenshot](/screenshots/options.JPG)
+
+
