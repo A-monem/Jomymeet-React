@@ -15,14 +15,14 @@ Jomy uses Jitsi meet (open source) video conferenceing library, which comes with
  
  and many more ...
  
- Above all Jomymeet can be self hosted at your facility or on the cloud for optimum security.
+ Above all Jomymeet video server can be self hosted at your facility or on the cloud for optimum security.
 
 # How it works ?
-A admin person has to enrol studnets by adding their e-mail address, grade and classroom. the admin person is also responsible for creating the timetable for each classroom.
-Studnets can then login to their dashboard and connect to their virtual classroom.
+A admin person has to enrol students by adding their e-mail address, grade and classroom. the admin person is also responsible for creating the timetable for each classroom.
+Students can then login to their dashboard and connect to their virtual classroom.
 
 # Where is it available ?
-Jomy is available as a web app (https://jomymeet.com/) as well as android and iOS mobile apps.
+Jomy is available as a web app (https://www.jomymeet.com/) as well as android and iOS mobile apps.
 
 # How can I test it ?
 you can test it by logging in as an ADMIN or by logging in as a STUDENT using the following credentials:
