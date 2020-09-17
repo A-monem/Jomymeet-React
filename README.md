@@ -15,7 +15,7 @@ Jomy uses Jitsi meet (open source) video conferenceing library, which comes with
  
  and many more ...
  
- Above all Jomymeet can be self hosted at your facility or on the cloud for optimum security.
+ Above all Jomymeet video server can be self hosted at your facility or on the cloud for optimum security.
 
 # How it works ?
 A admin person has to enrol studnets by adding their e-mail address, grade and classroom. the admin person is also responsible for creating the timetable for each classroom.
