@@ -7,6 +7,7 @@ import Session from './componenets/Session'
 import Privacy from './componenets/Privacy'
 import Terms from './componenets/Terms.js'
 import Error from './componenets/Error'
+import Support from './componenets/Support'
 import CombinedContextProvider from './context/CombinedContext'
 import { CssBaseline } from '@material-ui/core'
 
@@ -23,6 +24,7 @@ function App() {
             <Route path='/session/:id' component={Session} />
             <Route path='/privacy' component={Privacy} />
             <Route path='/terms-and-conditions' component={Terms} />
+            <Route path='/support' component={Support} />
             <Route component={Error} />
           </Switch>
         </Router>
