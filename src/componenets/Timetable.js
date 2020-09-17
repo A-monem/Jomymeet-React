@@ -78,7 +78,7 @@ export default function Timetable({ history }) {
                         {start: {hour: 9, minute: 30}, finish: {hour: 10, minute: 15}}, 
                         {start: {hour: 10, minute: 30}, finish: {hour: 11, minute: 15}}, 
                         {start: {hour: 11, minute: 30}, finish: {hour: 12, minute: 15}}, 
-                        {start: {hour: 12, minute: 30}, finish: {hour: 14, minute: 15}}]
+                        {start: {hour: 12, minute: 30}, finish: {hour: 13, minute: 15}}]
 
     console.log(timeHourRef)
     console.log(timeMinuetsRef)
