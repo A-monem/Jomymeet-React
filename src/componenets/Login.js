@@ -22,8 +22,8 @@ function Copyright() {
 
 export default function Login({ history }) {
 
-  const [email, setEmail] = useState('admin@jomymeet.com')
-  const [password, setPassword] = useState('admin123')
+  const [email, setEmail] = useState('')
+  const [password, setPassword] = useState('')
   
   const { toggleTheme } = useContext(ThemeContext)
   const { addUser, addTimetable } = useContext(UserContext)
